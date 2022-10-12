@@ -1,10 +1,11 @@
-You can get Anomaly mod working through steam (with all of steam's funcionality) if you want
-Delete everything in Call of Pripyat folder
-Dump entire Anomaly content into CoP folder
-Run AnomalyLauncher.exe once and start random game to make sure everything is working and you didnt loose any files while copying
-Exit out of the game
-Rename AnomalyLauncher.exe into "Stalker-COP"
-Rename DX version of Anomaly (it is inside bin folder) you want to use to "xrEngine"
-Start the game through steam
+You can get Anomaly mod working through Steam (with all of Steam's funcionality) if you want
+1.Delete everything in Call of Pripyat folder
+2.Dump entire Anomaly content into CoP folder
+3.Run AnomalyLauncher.exe once and start random game to make sure everything is working and you didnt loose any files while copying them
+4.Exit out of the game
+5.Rename AnomalyLauncher.exe into "Stalker-COP"
+6.Rename DX version of Anomaly (it is inside bin folder) you want to use to "xrEngine"
+7.Start the game through steam
 
-You will have to mod the game manually without Mod Manager but it isnt a problem at all since pretty much 99% of addons require you to dump everything into gamedata folder. I managed to have 20+ mods with no issues
+You will have to mod the game manually without Mod Manager but it isnt a problem at all since pretty much 99% of addons 
+require you to dump everything into "gamedata" folder.
